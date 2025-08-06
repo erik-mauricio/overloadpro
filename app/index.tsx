@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <View>
             <Text>
-                Homw
+                Home
             </Text>
         </View>
     )
